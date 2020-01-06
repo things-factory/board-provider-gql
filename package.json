@@ -1,6 +1,6 @@
 {
   "name": "@things-factory/board-provider-gql",
-  "version": "1.0.0-alpha.1",
+  "version": "2.0.0",
   "main": "src/index.js",
   "things-factory": true,
   "license": "MIT",
@@ -12,9 +12,9 @@
     "migration": "things-factory-migration"
   },
   "dependencies": {
-    "@things-factory/board-service": "^1.0.0-alpha.1",
-    "@things-factory/provider-base-gql": "^1.0.0-alpha.1",
-    "@things-factory/shell": "^1.0.0-alpha.1"
+    "@things-factory/board-service": "^2.0.0",
+    "@things-factory/provider-base-gql": "^2.0.0",
+    "@things-factory/shell": "^2.0.0"
   },
   "devDependencies": {}
 }
